@@ -11,7 +11,10 @@ I'm a software professional based out of Bangalore, India.
 I'm currently employed at [Skit][1], we build voicebots for call centers. 
 Prior to working at Skit, I was working at [EMC2][2] for 5 years at their Enterprise Content Divison.
 
-I've worked primarily as a backend engineer using Golang, Python and Java as the programming languages I tried to wield my magic using.  
+I've worked primarily as a backend engineer. I've used Golang, Python and Java as the programming languages to wield my magic.
+
+The main driver for any work I do in tech is the amount of time it saves people. That's the entire point of machines isn't it ?
+To automate the mundanity out of our lives.   
 
 ## Personal
 
